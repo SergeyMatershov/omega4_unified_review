@@ -1,0 +1,14 @@
+# Ω⁴-UNIFIED — зависимости
+#
+# Установка:
+#     pip install -r requirements.txt
+#
+# Или вручную:
+#     pip install numpy scipy mpmath
+
+numpy>=1.24.0
+scipy>=1.10.0
+mpmath>=1.3.0
+
+# Опционально (для ускорения атласа через JAX):
+# jax>=0.4.0

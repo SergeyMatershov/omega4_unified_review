@@ -1,0 +1,157 @@
+{
+  "_author": "Сергей Викторович Матершов",
+  "_orcid": "0009-0009-0641-1357",
+  "_license": "CC BY-NC-ND 4.0 International",
+  "version": "3.0",
+  "timestamp": "2026-09-28T04:40:12.823746",
+  "topic": "FRG / topology / membrane / N_eff / M-theory / omega4 / omega58 / fields / actions / equations / compactification / hierarchy / final",
+  "summary": {
+    "N_eff_max": 7,
+    "N_eff_threshold": 8,
+    "N_bulk": 57,
+    "N_hidden": 50,
+    "N_membrane": 7,
+    "N_grav": 3,
+    "N_matter": 54,
+    "N_26": 25,
+    "N_32": 31,
+    "N_DM": 50,
+    "N_fields_4": 7,
+    "N_fields_58": 57,
+    "N_equations_4": 5,
+    "N_equations_58": 6,
+    "compact_11d_4d": "11 = 4 + 6 + 1",
+    "best_formula": "SU26_minus_rank",
+    "status_overall": "STRUCTURAL_STRONG",
+    "omega4_complete": true,
+    "omega58_complete": true,
+    "hierarchy_complete": true,
+    "final_complete": true
+  },
+  "details": {
+    "topology": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "membrane_unique": {
+      "status": "STRUCTURAL_STRONG",
+      "unique": true
+    },
+    "threshold": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "membrane_v2": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "bulk_embedding": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "bulk_embedding_unique": {
+      "status": "STRUCTURAL_STRONG",
+      "unique": true
+    },
+    "hidden_physics": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "u1_origin": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "formula": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "formulas_for_7": {
+      "status": "STRUCTURAL_STRONG",
+      "n_match": 6,
+      "n_total": 6
+    },
+    "m_theory": {
+      "bulk_dim": 11,
+      "boundary_dim": 10,
+      "orbifold": "S¹/Z₂",
+      "gauge_group": "E₈ × E₈",
+      "n_sectors": 7,
+      "n_dualities": 4,
+      "chain": "11D → 10D (E₈ × E₈) → 10D (SO(32)) → 10D (Тип I) → 26D"
+    },
+    "gravity": {
+      "status": "STRUCTURAL_ARGUMENT"
+    },
+    "experimental": {
+      "status": "STRUCTURAL_STRONG",
+      "n_total": 17,
+      "n_verified": 13,
+      "fraction": 0.7647058823529411
+    },
+    "dark_matter": {
+      "status": "STRUCTURAL_ARGUMENT",
+      "N_DM": 50,
+      "Omega_DM": 0.12280701754385966,
+      "Omega_obs": 0.12,
+      "match": true
+    },
+    "omega4": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega4_field_content": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega4_action": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega4_equations": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega4_omega58": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_definition": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_spectrum": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_gravity": {
+      "status": "STRUCTURAL_ARGUMENT"
+    },
+    "omega58_field_content": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_action": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_equations": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_compactification": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega58_predictions": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega_hierarchy": {
+      "status": "STRUCTURAL_STRONG",
+      "completed": 8,
+      "remaining": 0
+    },
+    "omega26": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega32": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega5": {
+      "status": "STRUCTURAL_ARGUMENT"
+    },
+    "omega6": {
+      "status": "STRUCTURAL_STRONG"
+    },
+    "omega10": {
+      "status": "STRUCTURAL_ARGUMENT"
+    },
+    "omega11": {
+      "status": "STRUCTURAL_ARGUMENT"
+    },
+    "final": {
+      "status": "STRUCTURAL_STRONG"
+    }
+  }
+}

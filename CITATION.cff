@@ -1,0 +1,92 @@
+# ============================================================================
+# Ω⁴-UNIFIED — CITATION FILE FORMAT (CFF)
+# ============================================================================
+# 
+# Этот файл позволяет GitHub автоматически показывать кнопку
+# "Cite this repository" в правой панели репозитория.
+#
+# Формат: Citation File Format (CFF) v1.2.0
+# Спецификация: https://citation-file-format.github.io/
+#
+# ============================================================================
+
+cff-version: 1.2.0
+message: "Если вы используете эту работу, пожалуйста, цитируйте её следующим образом:"
+
+title: "Ω⁴-UNIFIED: топологическая модель физики"
+abstract: >-
+  Ω⁴-UNIFIED — попытка построить физическую модель, в которой топология
+  многообразия Калаби-Яу (Тянь-Яу / Z₃) порождает структуру физики:
+  от масс элементарных частиц до космологических параметров и квантовой
+  гравитации. Модель содержит 629 констант, 171/171 проверок,
+  статистическую значимость 12.74σ (Fisher's method) и кросс-валидацию
+  97.8% (LOO + K-Fold + Holdout). Модель — эффективная теория поля (EFT)
+  с калибровочной группой SU(26), а не струнная теория в строгом смысле.
+  PROVEN не достигнут: связь N_eff = 7 — наблюдаемая закономерность,
+  а не строгий вывод.
+
+type: software
+
+authors:
+  - family-names: "Матершов"
+    given-names: "Сергей Викторович"
+    orcid: "https://orcid.org/0009-0009-0641-1357"
+    email: "smatershov@mail.ru"
+
+version: "79.6"
+date-released: "2026-09-28"
+
+license:
+  - "CC-BY-NC-ND-4.0"
+  - "LicenseRef-Universal-Academic-Licence-v1.0"
+
+keywords:
+  - "физика"
+  - "топология"
+  - "Калаби-Яу"
+  - "Тянь-Яу"
+  - "SU(26)"
+  - "FRG"
+  - "квантовая гравитация"
+  - "асимптотическая безопасность"
+  - "M-теория"
+  - "компактификация"
+  - "массы частиц"
+  - "космология"
+  - "тёмная материя"
+  - "CP-нарушение"
+  - "g-2 мюона"
+  - "эллиптическая кривая"
+  - "модулярные формы"
+  - "магические числа"
+  - "кварки"
+  - "Ω-иерархия"
+  - "EFT"
+  - "physics"
+  - "topology"
+  - "Calabi-Yau"
+  - "Tian-Yau"
+  - "quantum gravity"
+  - "asymptotic safety"
+  - "M-theory"
+  - "compactification"
+  - "particle masses"
+  - "cosmology"
+  - "dark matter"
+  - "CP violation"
+  - "muon g-2"
+  - "elliptic curve"
+  - "modular forms"
+  - "magic numbers"
+  - "quarks"
+  - "Omega hierarchy"
+
+repository-code: "https://github.com/"
+https://doi.org/10.5281/zenodo.23011101
+url: "https://orcid.org/0009-0009-0641-1357"
+
+contact:
+  - family-names: "Матершов"
+    given-names: "Сергей Викторович"
+    orcid: "https://orcid.org/0009-0009-0641-1357"
+    email: "smatershov@mail.ru"

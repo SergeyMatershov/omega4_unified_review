@@ -1,0 +1,197 @@
+# УНИВЕРСАЛЬНАЯ ЛИЦЕНЗИЯ
+## Universal Academic Licence v1.0 (UAL-v1.0)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+**Автор:** Сергей Викторович Матершов (Sergey V. Matershov)
+**ORCID:** 0009-0009-0641-1357
+**Дата публикации:** 2026-06-25
+**Версия:** 1.0
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## 📜 ОБЛАСТЬ ДЕЙСТВИЯ
+
+Настоящая лицензия распространяется на **ВСЕ академические работы**,
+созданные Сергеем Викторовичем Матершовым (Sergey V. Matershov),
+независимо от даты создания, тематики или формата.
+
+Полный перечень работ доступен по ссылке:
+https://orcid.org/0009-0009-0641-1357
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## ✅ РАЗРЕШЕНИЯ
+
+Разрешается:
+
+- Чтение, копирование и распространение
+- Цитирование и ссылки
+- Использование в образовательных целях
+- Использование в некоммерческих исследованиях
+- Перевод и адаптация с сохранением авторства
+- Создание производных работ на условиях Copyleft
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## ⚠️ ОБЯЗАТЕЛЬНЫЕ ТРЕБОВАНИЯ
+
+При любом использовании необходимо:
+
+1. **Указывать автора:** Сергей Викторович Матершов (Sergey V. Matershov)
+2. **Указывать ORCID:** 0009-0009-0641-1357
+3. **Ссылаться на лицензию:** Universal Academic v1.0 (UAL-v1.0)
+4. **Сохранять Copyleft:** производные работы — на тех же условиях
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## 🚫 ЗАПРЕЩЕНО
+
+Без отдельного письменного разрешения автора:
+
+- Коммерческое использование (продажа, платные услуги, извлечение прибыли)
+- Военное использование
+- Патентный троллинг
+- Искажение смысла или ложное представление
+- Плагиат
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## 💼 КОММЕРЧЕСКОЕ ИСПОЛЬЗОВАНИЕ
+
+Требуется отдельное письменное соглашение.
+**Контакт:** smatershov@mail.ru
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## ⚖️ ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
+
+Работы предоставляются «КАК ЕСТЬ», без гарантий.
+Автор не несёт ответственности за последствия использования.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+**«Знание — щит. Безмолвие — меч. Истина — победа.»**
+**«Knowledge is the shield. Silence is the sword. Truth is victory.»**
+
+═══════════════════════════════════════════════════════════════════════════════
+UNIVERSAL ACADEMIC LICENCE
+Universal Academic Licence v1.0 (UAL-v1.0)
+═══════════════════════════════════════════════════════════════════════════════
+
+Author: Sergey V. Matershov (Сергей Викторович Матершов)
+ORCID: 0009-0009-0641-1357
+Publication Date: 2026-06-25
+Version: 1.0
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📜 SCOPE
+This licence applies to ALL academic works created by Sergey V. Matershov (Сергей Викторович Матершов), regardless of creation date, subject matter, or format.
+
+A complete list of works is available at:
+https://orcid.org/0009-0009-0641-1357
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✅ PERMISSIONS
+Permission is granted for:
+
+Reading, copying, and distribution
+
+Citation and referencing
+
+Educational use
+
+Non-commercial research use
+
+Translation and adaptation with attribution
+
+Creation of derivative works under Copyleft terms
+
+═══════════════════════════════════════════════════════════════════════════════
+
+⚠️ MANDATORY REQUIREMENTS
+Any use must comply with the following:
+
+Attribute the author: Sergey V. Matershov (Сергей Викторович Матершов)
+
+Cite ORCID: 0009-0009-0641-1357
+
+Reference this licence: Universal Academic v1.0 (UAL-v1.0)
+
+Preserve Copyleft: derivative works must be distributed under the same terms
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚫 PROHIBITED USES
+Without the author's explicit written permission:
+
+Commercial use (sale, paid services, profit generation)
+
+Military use
+
+Patent trolling
+
+Misrepresentation or distortion of meaning
+
+Plagiarism
+
+═══════════════════════════════════════════════════════════════════════════════
+
+💼 COMMERCIAL USE
+Requires a separate written agreement.
+Contact: smatershov@mail.ru
+
+═══════════════════════════════════════════════════════════════════════════════
+
+⚖️ DISCLAIMER
+The works are provided "AS IS", without warranties of any kind.
+The author assumes no responsibility for consequences arising from use.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+«Knowledge is the shield. Silence is the sword. Truth is victory.»
+«Знание — щит. Безмолвие — меч. Истина — победа.»
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Zenodo home
+Published September 28, 2026 | Version 79.6
+Preprint  Open
+Ω⁴-UNIFIED: A Topological Model of Physics — from Calabi–Yau Topology to Particle Masses, Cosmology and Quantum Gravity
+Authors/Creators
+Matershov, Sergey Viktorovich
+ORCID icon
+Description
+[English version]
+
+Ω⁴-UNIFIED is a working hypothesis proposing that the topology of a Calabi–Yau manifold (Tian–Yau / Z₃) generates the structure of physics: from particle masses to cosmological parameters and quantum gravity.
+
+The model starts from Hodge numbers h¹¹ = 6, h²¹ = 9, χ_Hodge = −6, giving exactly 3 fermion generations. From these, via the master polynomial n(k), one derives: β-functions of SU(26) as topological invariants; particle masses via ε_FN = 0.317081645…; cosmological parameters n_s, r, H₀, Ω_DM, Λ; and quantum gravity via FRG.
+
+Key results: 171/171 checks passed; 629 constants in the auto-genome; statistical significance 12.74σ; cross-validation 97.8%. M_Pl (0.045%), G (0.094%), Λ (0.009%) agree with experiment.
+
+Honest disclaimer: the model is an effective field theory (EFT), not a string theory in the strict sense. PROVEN has not been achieved. The relation N_eff = 7 is an observed regularity, not a rigorous derivation. Five open problems are explicitly listed.
+
+Package contents: full LaTeX source (RU + EN), Python implementation, results in JSON, auto-genome of 629 constants, extended description.
+
+Author: Sergey Viktorovich Matershov (ORCID 0009-0009-0641-1357).
+License: Universal Academic Licence v1.0 (UAL-v1.0) or CC BY-NC-ND 4.0.
+
+---
+
+[Русская версия]
+
+Ω⁴-UNIFIED — рабочая гипотеза, согласно которой топология многообразия Калаби–Яу (Тянь-Яу / Z₃) порождает структуру физики: от масс частиц до космологических параметров и квантовой гравитации.
+
+Модель исходит из чисел Ходжа h¹¹ = 6, h²¹ = 9, χ_Hodge = −6, что даёт ровно 3 поколения фермионов. Из них через мастер-полином n(k) выводятся: β-функции SU(26) как топологические инварианты; массы частиц через ε_FN = 0.317081645…; космологические параметры n_s, r, H₀, Ω_DM, Λ; и квантовая гравитация через FRG.
+
+Ключевые результаты: 171/171 проверок пройдено; 629 констант в автогеноме; статистическая значимость 12.74σ; кросс-валидация 97.8%. M_Pl (0.045%), G (0.094%), Λ (0.009%) согласуются с экспериментом.
+
+Честный дисклеймер: модель является эффективной теорией поля (EFT), а не струнной теорией в строгом смысле. PROVEN не достигнут. Связь N_eff = 7 — наблюдаемая закономерность, а не строгий вывод. Пять открытых проблем явно перечислены.
+
+Содержимое пакета: полный исходный код LaTeX (RU + EN), реализация на Python, результаты в JSON, автогеном из 629 констант, расширенное описание.
+
+Автор: Сергей Викторович Матершов (ORCID 0009-0009-0641-1357).
+Лицензия: Universal Academic Licence v1.0 (UAL-v1.0) или CC BY-NC-ND 4.0.
